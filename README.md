@@ -1,4 +1,4 @@
-# Node.js Sample App
+# Node.js Sample App.
 
 ```cf push```
 
